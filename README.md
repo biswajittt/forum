@@ -62,22 +62,24 @@ First of all in Forum’s home page we have a navbar, button for login/registrat
 ## Installation Guide:
 
 * [Step 1: Download the Repository](#step1)
-* [Step 3: Run Forum](#step2)
+* [Step 2: Run Forum](#step2)
 
 -----
 <a name="step1"></a>
 
 ### Step 1: Download the Repository
 
-Either Clone the repository using git clone: `git clone https://github.com/ozdemirburak/laravel-8-simple-cms.git` 
-or install via <a target="_blank" href="https://github.com/ozdemirburak/laravel-8-simple-cms/archive/master.zip">zip</a> and extract 
+Either Clone the repository using git clone: `git clone https://github.com/biswajittt/forum.git` 
+or install via <a target="_blank" href="https://github.com/ozdemirburak/biswajittt/forum/archive/master.zip">zip</a> and extract 
 to any of your folders you wish.
 
 -----
 <a name="step2"></a>
 
 ### Run Forum:
+
 To serve the forum application, you can use `php artisan serve`, then open [http://localhost:8000](http://localhost:8000) from your browser.
+
 -----
 
 <a name="item4"></a>
@@ -102,6 +104,6 @@ Import the `forum.sql` file in your phpMyAdmin database.
 ![Registration](screenshots/registration.png)
 ![Home](screenshots/home.png)
 ![Questions](screenshots/questions.png)
-![Question & Comment](screenshots/question&omment.png)
+![Question & Comment](screenshots/question&comment.png)
 ![Ask Question](screenshots/askquestion.png)
 ![User Data](screenshots/userdata.png)
