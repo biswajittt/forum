@@ -23,7 +23,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## Table of Contents:
 
 * [Features](#item1)
-* [Forum Overview/Specifications](#item2)
+* [Forum Overview](#item2)
 * [Installation Guide](#item3)
 * [Database](#item4)
 * [Flowchart](#item5)
@@ -52,8 +52,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 -----
 <a name="item2"></a>
 
-## Forum Overview/Specifications:
-First of all in Forum’s home page we have a navbar, button for login/registration page (no can access the next page without login or registration, old user can login to this site and new user have to register as well as have to complete email verification for accessing this site) and category(C, C++, JAVA, HTML CSS & JAVASCRIPT, PYTHON & PHP). If anyone click on any language category(C, C++, JAVA, HTML CSS & JAVASCRIPT, PYTHON & PHP) example: if I want to go C language category page, then I will click on C category. If user click on any category(C, C++, JAVA, HTML CSS & JAVASCRIPT, PYTHON & PHP), then user will see the all questions(problems) posted or asked by other users related to this category(C, C++, JAVA, HTML CSS & JAVASCRIPT, PYTHON & PHP). If any user click on any question (problem posted by other user) simply they will redirect to this question (problem) page where anyone can give the solution of this problem by comment. Users also have a ‘mydata’ page where they can see their account details and what kind of questions they asked.
+## Forum Overview:
+First of all in Forum’s home page we have a navbar, button for `Login/Registration` page (no can access the next page without login or registration, old user can login to this site and new user have to register as well as have to complete email verification for accessing this site) and `Category(C, C++, JAVA, HTML CSS & JAVASCRIPT, PYTHON & PHP)`. If anyone click on any language category(C, C++, JAVA, HTML CSS & JAVASCRIPT, PYTHON & PHP) example: if I want to go C language category page, then I will click on C category. If user click on any category(C, C++, JAVA, HTML CSS & JAVASCRIPT, PYTHON & PHP), then user will see the all questions(problems) posted or asked by other users related to this category(C, C++, JAVA, HTML CSS & JAVASCRIPT, PYTHON & PHP). If any user click on any question (problem posted by other user) simply they will redirect to this question (problem) page where anyone can give the solution of this problem by comment. Users also have a `mydata` page where they can see their account details and what kind of questions they asked.
 
 -----
 <a name="item3"></a>
@@ -70,7 +70,7 @@ First of all in Forum’s home page we have a navbar, button for login/registrat
 ### Step 1: Download the Repository
 
 Either Clone the repository using git clone: `git clone https://github.com/biswajittt/forum.git` 
-or install via <a target="_blank" href="https://github.com/ozdemirburak/biswajittt/forum/archive/master.zip">zip</a> and extract 
+or install via <a target="_blank" href="https://github.com/biswajittt/forum/archive/master.zip">zip</a> and extract 
 to any of your folders you wish.
 
 -----
