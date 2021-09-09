@@ -40,7 +40,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 * Reset Password
 * Asking Questions
 * Upload Code
-* Comment-Reply System
+* Comment System
 * User Details
 * Logout
 
