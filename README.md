@@ -76,7 +76,7 @@ to any of your folders you wish.
 -----
 <a name="step2"></a>
 
-### Run Forum:
+### Step 2: Run Forum:
 
 To serve the forum application, you can use `php artisan serve`, then open [http://localhost:8000](http://localhost:8000) from your browser.
 
